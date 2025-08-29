@@ -34,7 +34,7 @@ make
 
 ### 免编译二进制
 
-你也可以直接下载 [Releases](https://github.com/HiJackiee/dirhist/releases) 页面提供的静态链接二进制版本
+您可以直接下载 [Releases](https://github.com/HiJackiee/dirhist/releases) 页面提供的静态链接二进制版本
 
 ## 快速开始
 
