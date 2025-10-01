@@ -6,9 +6,9 @@
  */
 
 #include <iostream>
-#include <algorithm>
 #include "dirhist/diff.h"
 #include "dirhist/log.h"
+#include "dirhist/serialize.h"
 #include "internal/util.h"
 
 namespace dirhist {

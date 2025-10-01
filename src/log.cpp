@@ -4,8 +4,11 @@
  * @author  yannn
  * @date    2025-07-28
  */
+
+#include <iostream>
 #include <algorithm>
 #include "dirhist/log.h"
+#include "dirhist/serialize.h"
 #include "internal/util.h"
 
 namespace dirhist {

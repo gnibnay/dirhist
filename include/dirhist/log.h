@@ -4,7 +4,10 @@
  * @date    2025-07-28
  */ 
 
-#include "serialize.h"
+#include <filesystem>
+
+// 简化命名空间名称书写
+namespace fs = std::filesystem;
 
 namespace dirhist {
     // @brief 定义日志条目

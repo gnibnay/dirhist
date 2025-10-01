@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/yannn/workspace/cpps/dirhist/build",
+  "command": "/usr/local/llvm-20.1.5/bin/clang++  -I/home/yannn/workspace/cpps/dirhist/include -O3 -DNDEBUG -O2 -std=gnu++17 -o CMakeFiles/dirhist.dir/src/main.cpp.o -c /home/yannn/workspace/cpps/dirhist/src/main.cpp",
+  "file": "/home/yannn/workspace/cpps/dirhist/src/main.cpp",
+  "output": "CMakeFiles/dirhist.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/yannn/workspace/cpps/dirhist/build",
+  "command": "/usr/local/llvm-20.1.5/bin/clang++  -I/home/yannn/workspace/cpps/dirhist/include -O3 -DNDEBUG -O2 -std=gnu++17 -o CMakeFiles/dirhist.dir/src/snapshot.cpp.o -c /home/yannn/workspace/cpps/dirhist/src/snapshot.cpp",
+  "file": "/home/yannn/workspace/cpps/dirhist/src/snapshot.cpp",
+  "output": "CMakeFiles/dirhist.dir/src/snapshot.cpp.o"
+},
+{
+  "directory": "/home/yannn/workspace/cpps/dirhist/build",
+  "command": "/usr/local/llvm-20.1.5/bin/clang++  -I/home/yannn/workspace/cpps/dirhist/include -O3 -DNDEBUG -O2 -std=gnu++17 -o CMakeFiles/dirhist.dir/src/serialize.cpp.o -c /home/yannn/workspace/cpps/dirhist/src/serialize.cpp",
+  "file": "/home/yannn/workspace/cpps/dirhist/src/serialize.cpp",
+  "output": "CMakeFiles/dirhist.dir/src/serialize.cpp.o"
+},
+{
+  "directory": "/home/yannn/workspace/cpps/dirhist/build",
+  "command": "/usr/local/llvm-20.1.5/bin/clang++  -I/home/yannn/workspace/cpps/dirhist/include -O3 -DNDEBUG -O2 -std=gnu++17 -o CMakeFiles/dirhist.dir/src/log.cpp.o -c /home/yannn/workspace/cpps/dirhist/src/log.cpp",
+  "file": "/home/yannn/workspace/cpps/dirhist/src/log.cpp",
+  "output": "CMakeFiles/dirhist.dir/src/log.cpp.o"
+},
+{
+  "directory": "/home/yannn/workspace/cpps/dirhist/build",
+  "command": "/usr/local/llvm-20.1.5/bin/clang++  -I/home/yannn/workspace/cpps/dirhist/include -O3 -DNDEBUG -O2 -std=gnu++17 -o CMakeFiles/dirhist.dir/src/diff.cpp.o -c /home/yannn/workspace/cpps/dirhist/src/diff.cpp",
+  "file": "/home/yannn/workspace/cpps/dirhist/src/diff.cpp",
+  "output": "CMakeFiles/dirhist.dir/src/diff.cpp.o"
+},
+{
+  "directory": "/home/yannn/workspace/cpps/dirhist/build",
+  "command": "/usr/local/llvm-20.1.5/bin/clang++  -I/home/yannn/workspace/cpps/dirhist/include -O3 -DNDEBUG -O2 -std=gnu++17 -o CMakeFiles/dirhist.dir/src/util.cpp.o -c /home/yannn/workspace/cpps/dirhist/src/util.cpp",
+  "file": "/home/yannn/workspace/cpps/dirhist/src/util.cpp",
+  "output": "CMakeFiles/dirhist.dir/src/util.cpp.o"
+},
+{
+  "directory": "/home/yannn/workspace/cpps/dirhist/build",
+  "command": "/usr/local/llvm-20.1.5/bin/clang++  -I/home/yannn/workspace/cpps/dirhist/include -O3 -DNDEBUG -O2 -std=gnu++17 -o CMakeFiles/dirhist.dir/src/cli.cpp.o -c /home/yannn/workspace/cpps/dirhist/src/cli.cpp",
+  "file": "/home/yannn/workspace/cpps/dirhist/src/cli.cpp",
+  "output": "CMakeFiles/dirhist.dir/src/cli.cpp.o"
+}
+]

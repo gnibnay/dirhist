@@ -11,7 +11,6 @@
 #include <filesystem>
 #include <string>
 #include <vector>
-#include <algorithm>
 #include "internal/util.h"
 
 namespace util {

@@ -9,6 +9,8 @@
 #include <array>
 #include <string>
 #include <cstdint>
+#include <filesystem>
+#include <vector>
 
 // 简化命名空间名称书写
 namespace fs = std::filesystem;

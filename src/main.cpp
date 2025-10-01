@@ -7,13 +7,9 @@
 // g++ -std=c++17 -I./include -o bin/dirhist src/main.cpp  src/snapshot.cpp src/serialize.cpp src/log.cpp src/diff.cpp src/util.cpp src/cli.cpp -lssl -lcrypto
 
 #include <iostream>
-#include <algorithm>
-#include "dirhist/snapshot.h"
-#include "dirhist/serialize.h"
 #include "dirhist/log.h"
 #include "dirhist/diff.h"
 #include "dirhist/cli.h"
-#include "internal/util.h"
 
 int main(int argc, char *argv[]){
     // parse the command line instructions

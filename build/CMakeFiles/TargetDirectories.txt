@@ -1,0 +1,3 @@
+/home/yannn/workspace/cpps/dirhist/build/CMakeFiles/dirhist.dir
+/home/yannn/workspace/cpps/dirhist/build/CMakeFiles/edit_cache.dir
+/home/yannn/workspace/cpps/dirhist/build/CMakeFiles/rebuild_cache.dir
